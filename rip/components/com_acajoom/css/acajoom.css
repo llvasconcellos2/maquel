@@ -78,14 +78,14 @@ table.acajoomtable td.key.vtop {
 
 /*  Admin control Panel*/
 #acajoom table.adminheading th {
-	background: url(http://localhost/maquel/components/com_acajoom/images/acajoom.jpg) no-repeat left;
+	background: url(components/com_acajoom/images/acajoom.jpg) no-repeat left;
 	padding: 0px 0px 0px 65px;
 }
 
 #acajoom ul {
 	margin: 0px 0px 0px 0px;
 	padding: 1px 0px 1px 20px;
-	list-style: url(http://localhost/maquel/components/com_acajoom/images/dot.png);
+	list-style: url(components/com_acajoom/images/dot.png);
 	border: none;
 }
 
@@ -134,7 +134,7 @@ table.cpanel td {
 }
 
 #acajoom table.panelheading th.userpanel {
-	background: url(http://localhost/maquel/administrator/images/userpanel.png) no-repeat left;
+	background: url(administrator/images/userpanel.png) no-repeat left;
 	height: 58px;
 	padding: 0px 0px 0px 65px;
 }
